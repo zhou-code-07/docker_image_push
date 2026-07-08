@@ -1,1 +1,1 @@
-cadvisor:0.55.1
+ghcr.io/google/cadvisor:0.55.1
