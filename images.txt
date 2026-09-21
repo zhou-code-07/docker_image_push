@@ -1,1 +1,1 @@
-docker.io/jumpserver/lion:v5.0.0-ce
+docker.io/jumpserver/lion:v4.10.19-ce
