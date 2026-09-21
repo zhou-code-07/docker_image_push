@@ -1,2 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v19.4.0
-
+docker.io/jumpserver/lion:v5.0.0-ce
