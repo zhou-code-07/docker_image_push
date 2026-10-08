@@ -1,2 +1,1 @@
-docker.io/jumpserver/lion:v4.10.19-ce
-docker.io/jumpserver/web:v5.0.0-ce
+ghcr.io/google/cadvisor:0.55.1
